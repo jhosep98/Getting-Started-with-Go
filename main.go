@@ -8,7 +8,7 @@ func main() {
 
 // this is a comment
 /*
-this comment multiples lines
-otro comentario es
-atexto
+This comment is
+from multiple
+lines
 */
